@@ -1,11 +1,9 @@
-name: VarDecomp-APSIM
+name: example-environment
 channels:
   - conda-forge
 dependencies:
   - sqlite3
-  - numpy as np
-  - matplotlib.pyplot as plt
-  - matplotlib.patches as mpatches
-  - matplotlib.ticker as ticker
-  - pandas as pd
-  - seaborn as sns
+  - numpy
+  - matplotlib
+  - pandas
+  - seaborn
