@@ -1,4 +1,4 @@
-name: example-environment
+name: VarDecomp-APSIM
 channels:
   - conda-forge
 dependencies:
