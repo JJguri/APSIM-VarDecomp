@@ -2,7 +2,7 @@ name: VarDecomp-APSIM
 channels:
   - conda-forge
 dependencies:
-  - sqlite3
+  - sqlite
   - numpy
   - matplotlib
   - pandas
