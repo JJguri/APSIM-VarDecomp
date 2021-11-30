@@ -22,3 +22,5 @@ factor denote high interactions of that factor with other factors, therefore, TE
 
 ### How to cite the use of this code?
 _Ojeda, Jonathan J., Ehsan Eyshi Rezaei, Bahareh Kamali, John McPhee, Holger Meinke, Stefan Siebert, Mathew A. Webb, Iffat Ara, Frank Mulcahy, and Frank Ewert. "Impact of crop management and environment on the spatio-temporal variance of potato yield at regional scale." Field Crops Research 270 (2021): 108213._
+
+_Please provide a star in this GitHub repo_
